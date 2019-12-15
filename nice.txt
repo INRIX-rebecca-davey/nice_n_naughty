@@ -7,3 +7,7 @@ ENGLAND
 - Nick Angel
 NEW ZEALAND
 - Frodo Baggins
+GERMANY
+- Hansel
+- Gretel
+- Rapunzel
