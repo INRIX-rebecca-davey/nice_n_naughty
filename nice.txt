@@ -11,3 +11,4 @@ GERMANY
 - Hansel
 - Gretel
 - Rapunzel
+- Arnie
